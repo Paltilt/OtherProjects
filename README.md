@@ -7,3 +7,7 @@ The shown projects in here are mostly smaller in size or presentations for large
 ## Take a Look Around
 
 As you can probably see most of my projects have some kind of visual component. This is because when teaching myself something new I really like getting visual feedback but generally speaking the most fun part for me personally is to learn something new. 
+
+## Where is the History?
+
+As I keep most of my projects inside of a privately hosted git repository most of the projects presented here are either already "finished" (are projects ever truly finished?) or are snapshots of the "true" repository.

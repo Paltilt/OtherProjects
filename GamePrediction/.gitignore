@@ -1,0 +1,24 @@
+# Data files are downloaded or generated locally; never commit them.
+BestBet/
+data/
+synthetic_data.csv
+*.csv
+!data/sample/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python environments and tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

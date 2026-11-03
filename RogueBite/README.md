@@ -1,5 +1,9 @@
 # RogueBite
 
+<p align="center">
+  <img src="Images/RogueBite_logo.png" alt="RogueBite Logo" width="400">
+</p>
+
 **RogueBite** is a fast-paced, two-player co-op rogue-lite with reverse bullet-hell gameplay, originally created as a 2025 MultiMediaTechnology project at the University of applied sciences Salzburg, it is now close to being released on Steam. In the game players fight through increasingly challenging enemy waves, combining automatic attacks with manually activated abilities to survive as long as possible.
 
 ## Gameplay
@@ -11,7 +15,7 @@
 
 ## My Contribution
 
-The project is made by three people with me being primarily responsible for everything that has to do with the enemies. This includes enemy behavior, spawning, cooperation, attack logic and getting more than a 100 enteties to work at the same time. But like always with these projects there are no "fixed" roles, which means I also implemented abilities (logic, shaders, etc.), weapons, UI and fundamental logic changes like determinism for the online co-op. I was also responsible for communicating and coordinating with external artists which provided our new sprites (sadly not yet implemented in the accessible builds).
+The project is made by three people with me being primarily responsible for everything that has to do with the enemies. This includes enemy behavior, spawning, cooperation, attack logic and getting more than a 100 enteties to work at the same time. But like always with these projects there are no "fixed" roles, which means I also implemented abilities (logic, shaders, etc.), weapons, UI and fundamental logic changes like determinism for the online co-op. I was also responsible for communicating and coordinating with external artists which provided our new sprites (sadly not yet implemented in the accessible builds, but you can see some of them in the logo).
 
 ## Play
 

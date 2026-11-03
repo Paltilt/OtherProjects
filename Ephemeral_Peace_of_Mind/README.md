@@ -1,5 +1,9 @@
 # Ephemeral Peace of Mind
 
+<p align="center">
+  <img src="Images/EPOM_logo.jpg" alt="EPOM Logo" width="800">
+</p>
+
 *A narrative-driven 3D experience about inner turmoil, resilience, and the experience of feeling lost.*
 
 **Ephemeral Peace of Mind** was a collaborative master's project I took part in during my time at the University of applied sciences Salzburg. The project was focused on helping people empathise with people struggling with depression. It is an interactive experience which follows a character navigating daily life with severe depressions and explores a dark parallel world that reflects their emotional struggles. Through exploration, narrative choices, and atmospheric visuals, users gradually uncover the truth behind the character's inner turmoil and help them overcome it.

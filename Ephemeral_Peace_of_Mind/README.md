@@ -21,8 +21,8 @@ My role in the project mainly revolved around game programming and interdiszipli
 
 ## Awards
 
-- ideaUP! Category "Serious Games" 
-- ideaUP! Over All Winner 1st place -> https://www.fh-salzburg.ac.at/fhs/aktuelles/news/ideaup-2023-ideen-fuer-einen-perspektivenwechsel
+- [ideaUP! Category "Serious Games"](https://www.fh-salzburg.ac.at/fhs/aktuelles/news/ideaup-2023-ideen-fuer-einen-perspektivenwechsel) 
+- [ideaUP! Over All Winner 1st place](https://www.fh-salzburg.ac.at/fhs/aktuelles/news/ideaup-2023-ideen-fuer-einen-perspektivenwechsel)
 
 ## Links
 

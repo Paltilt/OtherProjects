@@ -12,6 +12,20 @@ The number of projects shown off in here may still grow as I am currently still 
 
 As you can probably see most of my projects have some kind of visual component. This is because when teaching myself something new I really like getting visual feedback but generally speaking the most fun part for me personally is to learn something new. 
 
+## Table of Contents
+
+> [!TIP]
+> **Explore the projects in action.** Each game's README includes links to trailers, gameplay footage, project showcases, or playable builds where available. These complement the descriptions of my contributions and provide a closer look at the gameplay, implemented systems, and overall player experience.
+
+| Project | Summary |
+| --- | --- |
+| [Ephemeral Peace of Mind](./Ephemeral_Peace_of_Mind/) | A narrative-driven 3D experience exploring depression through daily life, emotional choices, and a dark parallel world. |
+| [Game Prediction](./GamePrediction/) | A machine-learning study investigating how well Steam game metadata can predict popularity, measured by peak concurrent players. |
+| [RogueBite](./RogueBite/) | A two-player co-op rogue-lite with reverse bullet-hell combat, escalating enemy waves, active abilities, and equipment upgrades. |
+| [Spluutsh](./Spluutsh/) | A first-person platformer focused on speedrunning, fluid movement, and coating surfaces to boost speed or jumping power. |
+| [Tactical AI](./TacticalAI/) | A Unity AI prototype featuring coordinated squad room entry, goal-based action planning, and tactical navigation using cover and remembered threats. |
+| [VR Camera](./VRCamera/) | A Unity VR safari prototype with a virtual analog camera, two-handed handling, twist-based zoom and focus, and photo capture and review. |
+
 ## Where is the History?
 
 As I keep most of my projects inside of a privately hosted git repository most of the projects presented here are either already "finished" (are projects ever truly finished?) or are snapshots of the "true" repository.

@@ -45,6 +45,7 @@ The prototype demonstrates:
   - [Build support and validation tooling](#build-support-and-validation-tooling)
   - [Data and control flow](#data-and-control-flow)
 - [8. Running the demo and what to expect](#8-running-the-project-and-demo)
+- [Screenshots](#screenshots)
 
 ## 1. Why this project
 
@@ -413,3 +414,17 @@ The demo uses two agents, out of performance constraints while visualizing, as I
 | **Tab** | Select the next agent |
 | **F1** | Show or hide the panel |
 | **Escape** | Release the mouse look |
+
+## Screenshots
+
+**Squad approach** - Two agents outside the house, with movement paths and agent labels enabled.
+
+<img src="images/Screenshot%202026-11-09%20221642.png" alt="Two squad members approaching the house with movement paths and agent labels" width="80%">
+
+**Tactical navigation overview** - Observer view of the house with the navigation surface and tactical location links visible.
+
+<img src="images/Screenshot%202026-11-09%20221426.png" alt="Observer view of the house with navigation and tactical location overlays" width="80%">
+
+**Indoor squad movement** - Agents in the hallway with navigation, room boundaries, and current-action labels visible.
+
+<img src="images/Screenshot%202026-11-09%20221435.png" alt="Squad members in a hallway with navigation overlays, room boundaries, and action labels" width="80%">
